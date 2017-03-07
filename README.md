@@ -1,4 +1,6 @@
 # FastqFilter
+The Three sourcecode stand for different version!
+
 Filter the low quality fastq reads before processing it!
 
 (1) compile : gcc -std=c99 -o FastqFilte FastqFilter.c
