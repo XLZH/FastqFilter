@@ -14,6 +14,7 @@
 *  [ outR2.fq] (argv[6]) : the file name of output fastqR2!
 *
 *  Wirte Time: 2016-4-8
+*  Version: 1
 *  Author :XLZH
 */
 
